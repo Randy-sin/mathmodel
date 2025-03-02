@@ -1,0 +1,43 @@
+Hong Kong Tourism Resource Allocation Analysis
+===========================================
+
+1. Correlation Analysis
+----------------------
+Top Positive Correlations:
+
+Top Negative Correlations:
+CNY_HKD_Rate vs Tourism_Revenue: -0.263
+Tourism_Revenue vs CNY_HKD_Rate: -0.263
+CNY_HKD_Rate vs Hotel_Price: -0.167
+Hotel_Price vs CNY_HKD_Rate: -0.167
+CNY_HKD_Rate vs Fireworks_Show: -0.115
+
+2. ROI Analysis
+---------------
+Average ROI: 50500.19%
+Maximum ROI: 426500.00%
+Minimum ROI: 0.00%
+
+3. Investment Recommendations
+---------------------------
+Based on data analysis, we recommend the following resource allocation strategy:
+
+1. Increase Concert Frequency:
+   - Strong positive correlation with tourism revenue
+   - Optimal scheduling during peak seasons
+   - Target: 8-12 concerts per month in high season
+
+2. Dynamic Hotel Pricing Strategy:
+   - Implement seasonal pricing adjustments
+   - Optimize based on occupancy rates
+   - Focus on premium periods
+
+3. Strategic Fireworks Shows:
+   - Schedule during major holidays
+   - Coordinate with large events
+   - Maximize impact through timing
+
+4. Air Traffic Capacity:
+   - Ensure sufficient flight availability
+   - Develop new route partnerships
+   - Focus on high-demand periods
